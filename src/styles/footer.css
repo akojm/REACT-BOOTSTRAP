@@ -1,0 +1,38 @@
+.content-footer{
+    width: 100%;
+    height: auto;
+    background-color: #282c34;
+    margin-top: 30px;
+    padding: 35px 48px !important;
+    color: white;
+}
+.row{
+    height: 100%;
+}
+footer h5{
+    font-size: 1.4em;
+    margin-bottom:10px ;
+    color: rgb(255, 255, 255);
+}
+
+footer a{
+    font-size: 1.3em;
+    color: white;
+}
+footer a:hover{
+    color: rgb(37, 178, 248);
+    transition: 1s;
+}
+footer .icons-social-footer a{
+    font-size: 1.5em;
+    color: white;
+}
+footer .icons-social-footer a:hover{
+    scale: 1.2;
+    color: rgb(37, 178, 248);
+
+}
+footer p{
+    padding: 5px 0px;
+    margin: 0px;
+}
