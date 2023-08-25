@@ -6,6 +6,7 @@ const Product = () => {
     return (
     <section className='container product'>
         <h2 className='text-center  pt-5 pb-5' id='product' >Our product</h2>
+        <div className='content-product pt-3 pb-3'>
         <div className='row pt-3'>
           <div className='col-3'>
           <Card >
@@ -116,6 +117,8 @@ const Product = () => {
           </div>
           
         </div>
+        </div>
+       
     </section>
  
       );

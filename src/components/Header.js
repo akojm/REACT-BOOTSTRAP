@@ -1,14 +1,13 @@
 import React from 'react';
 import '../styles/header.css'
-import Navigation from './Navigation';
+import CarouselImage from './CarouselImage';
 
 
 
 const Header = () => {
     return (
     <div className='content-header'>
-        <Navigation/>
-    
+        <CarouselImage/>
      </div>
 
     );

@@ -4,7 +4,7 @@ import Navbar from 'react-bootstrap/Navbar'
 
 const Navigation = () => {
     return (
-    <><Navbar className="d-flex justify-content-around fs-2 text"  bg="primary" data-bs-theme="dark">
+    <><Navbar className="d-flex justify-content-around fs-2 text"  bg="dark" data-bs-theme="dark">
       <Nav  activeKey="/home" >
         <Nav.Item>
           <Nav.Link href="/home">Home</Nav.Link>
